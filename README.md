@@ -11,7 +11,7 @@
 ## 📌 相关项目
 
 - **主要文档**：https://github.com/SoulEchoPlan/docs
-- **赛题来源**：[七牛云 AI 共创挑战赛](https://www.qiniu.com/activity/detail/68ac208628614a718ed2319c?channel=boss#topic)
+- **议题来源**：[七牛云 AI 共创挑战赛](https://www.qiniu.com/activity/detail/68ac208628614a718ed2319c?channel=boss#topic)
 - **后端项目**：[SoulEchoPlan/soul-echo](https://github.com/SoulEchoPlan/soul-echo) —— 基于**事件驱动架构**的 AI 角色即时通讯系统服务端，本前端即其 Web 客户端
 - **开发文档**：[SoulEchoPlan/docs](https://github.com/SoulEchoPlan/docs)
 - **运行环境与配置说明**：[Operating_Environment&Configuration_Instructions.md](https://github.com/SoulEchoPlan/docs/blob/main/Operating_Environment&Configuration_Instructions.md)
